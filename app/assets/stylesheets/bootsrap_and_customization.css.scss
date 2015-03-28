@@ -14,6 +14,7 @@ $btn-primary-bg:			 #c0392b;
 /*$btn-primary-color:			 #383838 ;*/
 $btn-primary-border:		 darken($btn-primary-bg, 20%);
 
+@import "bootstrap-sprockets"; 
 @import 'bootstrap';
 
 .center {
